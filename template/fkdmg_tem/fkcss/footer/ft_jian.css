@@ -1,0 +1,13 @@
+.fkfooter{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    z-index: 100;
+}
+#wp .wp {
+    z-index: 99;
+    position: relative;
+    padding-bottom: 50px;
+    display: inline-block;*display:inline;*zoom:1;
+}
+.fkftbottom{padding: 0px;}

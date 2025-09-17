@@ -1,0 +1,257 @@
+#mains{width: 1200px;margin: auto;background: #fff;padding-bottom: 19px;color: #616161;}
+.layui-tab-content {
+    padding: 40px;
+}
+#mains .tongji li {
+    float: left;
+    width: 24%;
+    text-align: center;
+    padding: 20px 0px;
+    border-radius: 5px;
+    margin-right: 9px;cursor: pointer;
+}
+#mains .tongji{
+    height: 100px;
+}
+#mains .tongji li:hover{
+    background: #f9f9f9;
+}
+#mains .tongji li span {
+    display: block;
+    font-size: 30px;
+    color: #004eff;
+}
+#mains .tongji li d{display: block;}
+#mains .unbody{
+    margin: 8px 0px;
+}
+#mains .zuilog{
+    display: block;
+}
+.layui-elem-field.layui-field-title{
+    margin-top:40px;
+}
+.youhuima{    background: #f9f9f9;     border: 1px solid #0095ff;
+    padding: 15px;}
+.youhuima .layui-input{
+    width: 80%;
+    float: left;    line-height: 37px;
+    border: 1px solid #1e9fff;
+}
+.youhuima .layui-btn,.youhuima .layui-input{
+    border-radius: 0px;    
+}
+.youhuima .layui-form-item{
+    float: left;
+    clear: none; 
+}
+.youhuima .yhtips p{
+    line-height: 28px;font-size: 13px;color: #a2a2a2;
+}
+.youhuima .yhtips{
+    margin-left: 33px;
+}
+.youhuima .layui-form-item.m1{
+    width:35%;
+}
+
+.youhuima .layui-form-item.m1 .layui-input{
+    width: 70%;
+}
+
+.youhuima .layui-form-item.m2{
+    width:65%;
+}
+.spglzx .layui-btn.sptj{
+    margin: auto;
+    display: block;
+    width: 80%;
+    margin-top: 40px;
+}
+#mains .jiangpin .bbitme:hover .sptitle a,#mains .jiangpin .bbitme:hover .sptitle i{
+display:inline;
+}
+#mains .jiangpin .bbitme .sptitle a,#mains .jiangpin .bbitme .sptitle i{
+    font-size: 12px;
+    color: rgb(255, 57, 7);
+    display: none;
+}
+#mains .undiv .unionpage{
+    margin: 10px 0;
+    text-align: left!important;
+}
+
+#mains .undiv .fktab-title{
+    position: relative;
+    left: 0;
+    height: 60px;
+    white-space: nowrap;
+    font-size: 0;
+    border-bottom: 1px solid #efefef;
+    transition: all .2s;
+    -webkit-transition: all .2s;
+}
+
+#mains .undiv .fktab-title a {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    vertical-align: middle;
+    font-size: 16px;
+    transition: all .2s;
+    -webkit-transition: all .2s;
+    position: relative;
+    line-height: 60px;
+    min-width: 65px;
+    padding: 0 25px;
+    text-align: center;
+    cursor: pointer;
+}
+#mains .undiv .fktab-title a.y-this{
+    color: #009688;
+}
+#mains .undiv .fktab-title a.y-this{
+    border: none;
+    border-radius: 0;
+    border-bottom: 2px solid #5FB878;
+}
+#mains .undiv .lgtpis{
+    font-size: 28px;text-align: center;
+}
+
+#mains .undiv .fktab-title a.lxfs{
+    float: right;
+    font-size: 12px;
+}
+#mains .lgtpis a{
+    cursor: pointer;
+    color: #119a00;
+}
+#mains .jiangpin{
+    margin-top: 25px;
+}
+#mains .jiangpin .bbitme{
+    width: 240px;
+    height:325px;
+    float: left;
+    line-height: 22px;   
+    border-radius: 10px;
+    border: 1px solid #e4e4e4;
+    margin: 19px;
+    overflow: hidden;
+}
+#mains .jiangpin .bbitme:hover{
+    border:1px solid #ff0000;
+}
+#mains .jiangpin .bbitme .sptitle{
+    font-size: 14px;    margin: 5px;
+}
+#mains .jiangpin .bbitme .spjiage{
+    text-align: center;
+    color: #ff6a00;
+}
+#mains .jiangpin .bbitme .spjianjie{
+    font-size: 12px;
+    color: #989898;    margin: 5px;
+}
+#mains .jiangpin .spduihuan{
+    background: #ff0000;
+    width: 50%;
+    text-align: center;
+    margin: 10px auto;
+    color: #fff;
+    padding: 3px;
+    cursor: pointer;
+}
+#mains .jiangpin .spduihuan:hover{
+    background: #007eff;
+}
+#mains .undhlog{
+    margin-top: 30px;
+}
+
+.delthissp {
+    float: left;
+    position: absolute;
+    background: #000;
+    padding: 0 7px;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: none;
+}
+#mains .jiangpin .bbitme:hover .delthissp{
+display: block;
+}
+.tgbz {
+    display: block;
+    height: 128px;    background: #0095ff;   margin-top: 30px;
+}
+.tgbz .clearfix{
+    padding:18px;color: #fff;
+}
+.tgbz .clearfix li{
+    float: left;
+    width: 31%;    margin-right:35px;
+}
+.tgbz .clearfix li img {
+    width: 95px;
+    float: left;
+}
+.tgbz .clearfix li .introduction-desc {
+    margin-left:100px;
+    text-align: left;
+}
+.tgbz .clearfix li .introduction-desc p {
+    font-size: 18px;
+}
+.tgbz .clearfix li .introduction-desc p.content{
+    margin-top: 4px;    line-height: 22px;
+    font-size: 13px;
+}
+
+
+/*
+   <div class="layui-form-item z1">
+                <label class="layui-form-label">5元</label>
+                <div class="layui-input-block">
+               <span>oujJUIEOGNDFGDFGH</span>
+               <span>单笔订单满80可用</span>
+                </div>
+              </div>
+.layui-input-block {
+    line-height: 36px;margin-left: 60px;width: 205px;text-align: center;
+}
+.youhuima .layui-input-block {
+    line-height: 25px;    padding-top: 15px;
+}
+.youhuima .layui-input-block span{
+    display: block;
+}
+.youhuima .layui-form-item{
+    float: left;  color: #fff;clear: none;    margin-right: 20px;
+}
+.youhuima .layui-form-label {
+    width: 68px;
+    text-align: center;
+    padding: 30px 14px;
+    font-size: 30px;
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.youhuima .layui-form-item.z1{
+    background:#00dabc;
+}
+
+.youhuima .layui-form-item.z2{
+    background:#1E9FFF;
+}
+
+.youhuima .layui-form-item.z3{
+    background:#FFB800;
+}
+
+.youhuima .layui-form-item.z4{
+    background:#FF5722;margin-right: 0;
+}
+*/

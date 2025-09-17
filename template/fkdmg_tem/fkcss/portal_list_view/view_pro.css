@@ -1,0 +1,95 @@
+.wp, #wp{ width:100%;}
+#pt{ margin:0;}
+#nv_portal .vw .pren em{ float:left; width:575px;}
+#comment_ul ul{ width: 96.8%;padding-left: 30px;}
+.fkacticletop{}
+.fkacticletop h4{font-size:34px; line-height:58px;color:#333; font-weight:normal; text-align:center; margin-bottom:15px;}
+.ct2 .mn {border-right:0; float:left; width:835px; padding:15px 25px; background:#fff;}
+
+.fkmanagerart{ border-bottom:1px solid #ededed; padding:5px 0px 10px 0; text-align:center; margin-bottom:15px;}
+.fkmanagerart span{ display:inline-block; padding-left:25px; font-size:12px; color:#999; margin-right:10px;}
+.fkmanagerart span a{ font-size:12px; color:#999;}
+.fkmanagerart span a:hover{ color:#07AEFC}
+.fkmanagerart span.fkviews{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/view.png) left center no-repeat;}
+.fkmanagerart span.fkreplies{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/reply.png) left center no-repeat;}
+.fkmanagerart span.fkedit{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/edit.png) left center no-repeat;}
+.fkmanagerart span.fkdelete{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/delete.png) left center no-repeat;}
+.fkmanagerart span.fkshoucang{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/xin.png) left center no-repeat;}
+.fkmanagerart span.fkfenxianga{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/share.png) left center no-repeat;}
+.fkmanagerart span.fkyaoqing{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/invite.png) left center no-repeat;}
+.fkmanagerart span.fkadds{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/add.png) left center no-repeat;}
+.fkmanagerart span.fkpushed{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/cloud.png) left center no-repeat;}
+
+.fkcaser_rr{ float:right; width:300px;}
+.fkfbxxbottom{ padding-top:10px; border-top:1px solid #ededed;}
+.fkfbxxbottom span{ text-align:center; font-size:12px; color:#999;  float: left;  width: 33%; display:block;line-height: 24px;}
+.fkfbxxbottom span.fksss{ margin-right:-1px;}
+.fkfbxxbottom span.fkviews{ border-left:1px solid #ededed; border-right:1px solid #ededed; width: 34%;}
+.fkfbxxbottom span.fkreplies{margin-left:-1px;}
+.fkfbxxbottom span.fkreplies a{}
+.fkfbxxbottom span em{ display: block; font-size: 20px; color: #333;  font-weight: normal;}
+/*作者栏*/
+.fkfabuxinxi{ width:270px; padding:15px; background:#fff; margin-bottom:15px; position:relative;}
+.fkfabuxinxi i{ display:block; width:12px; height:20px; background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/b-trangle.png) center no-repeat; position:absolute; top:70px; left:-12px;}
+
+.bm{ border:0; margin-bottom:0;}
+.fkfbxxtop{}
+
+
+.fkfbxxtop a{ display:block; padding-top:10px; }
+.fktx{width:88px; height:88px; margin:0 auto;}
+.fktx img{width:88px; height:88px; border-radius:100%;}
+.fkzzm{ text-align:center; height:20px; line-height:20px; margin:14px 0 10px 0; font-size:16px; color:#333; font-weight:bold;}
+.fkfbxxtop a span{ display:block; width:80px; height:20px; margin:0 auto 15px auto; line-height:20px; text-align:center; font-size:12px; color:#fff; border-radius:24px;  background-color: #07AEFC; background: linear-gradient(90deg,#5ea2ff,#00e3ff);}
+.fkzztouxian{ display:block; margin:10px auto 15px auto; text-align:center;height:23px; line-height:23px; background:#07AEFC; font-size:12px; color:#fff; border-radius:24px; max-width:80px; overflow:hidden;}
+.fkfbxxtop a em{ text-align:center; height:20px; line-height:20px; font-size:12px; color:#333; display:block; margin-bottom:15px;}
+
+
+/* 标题 */
+
+.vw, #comment{ width:100%!important;}
+.fkpc_right{float: left;width: 1000px;margin: 40px 0px 40px 50px; }
+.vw .s{ padding:5px 15px; background:#f1f1f1;}
+.vw .o{ border-top:1px solid #ededed; margin:0!important;}
+.vw,#comment{ width:755px;}
+ #nv_portal .vw .d{ margin:0; border-bottom:0;}
+#comment_ul .portrait img{ width:50px; height:50px;}
+#comment_ul .portrait{left:-60px;}
+.tedt{ border:none!important;}
+#related_article .bm_c{ padding:0;}
+.pn{ font-size:12px!important; font-weight:normal!important;}
+/*作者文章*/
+.fkthreadslists{}
+.fkthreadslists li{ padding-bottom:10px; margin-bottom:10px; border-bottom:1px solid #ededed;}
+.fkthreadslists li:last-child{ padding-bottom:0; margin-bottom:0; border-bottom:0;}
+.fkotersarts{ width:270px; margin-top:20px;}
+.fkotersarts h3{  height:30px; margin-bottom:10px; width:100%; position:relative;}
+.fkotersarts h3 em{ display:block; width:100%; height:1px; background:#ededed; position:absolute; top:10px; left:0;}
+.fkotersarts h3 span{display: block; font-size: 16px; background:#fff; padding:0 10px; font-weight:300; color: #07AEFC; height: 23px; line-height: 23px; position:absolute; top:-1px; left:95px;}
+.fkoarts{}
+.fkoarts ul li{ margin-bottom:8px; padding-bottom:8px;overflow:hidden; border-bottom:1px dashed #ededed;}
+.fkoarts ul li:last-child{ border-bottom:0; margin-bottom:0; padding-bottom:0;}
+.fkoarts ul li a{  font-size:14px; color:#333; display:block; line-height:23px; overflow:hidden;}
+.fkoarts ul li a:hover{ color:#07AEFC;}
+.fkoarts ul li span{ display:block; height:33px; line-height:33px; font-size:12px; color:#999; padding-left:23px; background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/date1.png) left center no-repeat;}
+/*相关阅读*/
+.fkxgydbox{ padding:15px 15px 7px 15px; background:#fff; margin-bottom:15px;}
+.fkxgydbox h3{  height:30px; margin-bottom:10px; width:100%; position:relative;}
+.fkxgydbox h3 em{ display:block; width:100%; height:1px; background:#ededed; position:absolute; top:10px; left:0;}
+.fkxgydbox h3 span{display: block; font-size: 16px; background:#fff; padding:0 10px; font-weight:300; color: #07AEFC; height: 23px; line-height: 23px; position:absolute; top:-1px; left:95px;}
+.fkrpicfdf{ width:100px; height:65px; float:left;}
+.fkrpicfdf img{ width:100px; height:65px;}
+.fkrpingf{ width:156px; float:right;}
+.fkrpingf a{ display:block; height:44px; line-height:22px; overflow:hidden; font-size:14px; color:#333; margin-bottom:5px;}
+.fkrpingf a:hover{ color:#07AEFC}
+.fkrpingf span{ font-size:12px; color:#999; display:block; height:20px; line-height:20px; overflow:hidden;}
+.fkrpingf span em{}
+
+
+
+/*上一篇下一篇*/
+.fkupdowns{}
+.fkupdowns h5{ font-size:16px; color:#9ca4ab; font-weight:normal; height:30px; line-height:30px;}
+.fkupdowns a{ display:block; height:30px; line-height:30px; font-size:14px; color:#333; overflow:hidden;text-overflow:ellipsis; white-space:nowrap; }
+.fkupdowns a:hover{ color:#07AEFC}
+.fkupdowns em{ font-size:12px; color:#999;}

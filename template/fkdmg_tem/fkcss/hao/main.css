@@ -1,0 +1,381 @@
+
+.fk_scbar {
+    display: none;
+}
+.h_mode .all_sou {
+    width: 650px;
+    height: 145px;
+    margin: 35px auto 10px auto;
+}
+.h_mode .search-title {
+	clear: both;
+	height: 0px;
+	border-radius: 10px 10px 0 0;
+	background-size: 2px
+}
+.h_mode .search-title ul {
+	float: left;
+	overflow: hidden
+}
+.h_mode .search-title ul li {
+	cursor: pointer;
+	float: left;
+	width: 57px;
+	height: 60px;
+	padding: 0 2px 0 0
+}
+.h_mode .search-title ul li:nth-child(1) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/a1.png)
+}
+.h_mode .search-title ul li:nth-child(1).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/a2.png)
+}
+.h_mode .search-title ul li:nth-child(1):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/a2.png)
+}
+.h_mode .search-title ul li:nth-child(2) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/w1.png)
+}
+.h_mode .search-title ul li:nth-child(2).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/w2.png)
+}
+.h_mode .search-title ul li:nth-child(2):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/w2.png)
+}
+.h_mode .search-title ul li:nth-child(3) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/d1.png)
+}
+.h_mode .search-title ul li:nth-child(3).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/d2.png)
+}
+.h_mode .search-title ul li:nth-child(3):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/d2.png)
+}
+.h_mode .search-title ul li:nth-child(4) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/h1.png)
+}
+.h_mode .search-title ul li:nth-child(4).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/h2.png)
+}
+.h_mode .search-title ul li:nth-child(4):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/h2.png)
+}
+.h_mode .search-title ul li:nth-child(5) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/y1.png)
+}
+.h_mode .search-title ul li:nth-child(5).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/y2.png)
+}
+.h_mode .search-title ul li:nth-child(5):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/y2.png)
+}
+.h_mode .search-title ul li:nth-child(6) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/i1.png)
+}
+.h_mode .search-title ul li:nth-child(6).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/i2.png)
+}
+.h_mode .search-title ul li:nth-child(6):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/i2.png)
+}
+.h_mode .search-title ul li:nth-child(7) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/o1.png)
+}
+.h_mode .search-title ul li:nth-child(7).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/o2.png)
+}
+.h_mode .search-title ul li:nth-child(7):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/o2.png)
+}
+.h_mode .search-title ul li:nth-child(8) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/p1.png)
+}
+.h_mode .search-title ul li:nth-child(8).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/p2.png)
+}
+.h_mode .search-title ul li:nth-child(8):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/p2.png)
+}
+.h_mode .search-title ul li:nth-child(9) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/t1.png)
+}
+.h_mode .search-title ul li:nth-child(9).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/t2.png)
+}
+.h_mode .search-title ul li:nth-child(9):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/t2.png)
+}
+.h_mode .search-title ul li:nth-child(10) i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/f1.png)
+}
+.h_mode .search-title ul li:nth-child(10).now i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/f2.png)
+}
+.h_mode .search-title ul li:nth-child(10):hover i {
+	background-image: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/f2.png)
+}
+.h_mode .search-title ul li i {
+	display: block;
+	height: 56px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 32px
+}
+.search-list-wrap {
+	float: left;
+	width: 660px;
+	border-radius: 0 0 5px 5px
+}
+.search-list {
+	display: none;
+	margin: 10px 10px 0;
+}
+.search-list form {
+	float: left
+}
+.search-list form input {
+	vertical-align: middle;
+	height: 46px;
+	border-radius: 5px;
+	border: 0
+}
+.search-list form input[type=text] {
+	transition: .2s;
+	-webkit-transition: .2s;
+	width: 556px;
+	height: 42px;
+	line-height: 42px;
+	border: 2px #ddd solid;
+	padding: 0 10px;
+	color: #666;
+	background: #fff;
+	outline: none;
+}
+.search-list form input[type=text]: {
+opacity:.8
+}
+.search-list form input[type=text]:hover {
+	border: 2px #01d37b solid;
+	background: #fdfddc
+}
+.search-list form input[type=submit] {
+	position: relative;
+	margin: 0 0 0 5px;
+	width: 50px;
+	background: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/icon-zoom1.png) center no-repeat #fff;
+	background-size: 18px;    
+	cursor: pointer;
+	outline: none;border: 2px #ddd solid;
+}
+.search-list form input[type=submit]:hover {
+	opacity: .8;
+	background: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/icon-zoom2.png) center no-repeat #01d37b;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	transition: all .3s ease-out;
+	background-size: 18px
+}
+.search-list form input[type=submit]:active {
+	top: 1px
+}
+.block {
+	display: block
+}
+#fk_haourl{
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+.web_url{
+	width: 1100px;
+    border-radius: 5px;
+    background: #fff;
+	margin: 20px auto 35px auto;
+}
+.web_url h1{
+    text-align: center;
+    padding: 15px 20px 15px 20px;
+    font-weight: 700;
+    font-size: 15px;
+    color: #333;
+    border-bottom: 1px solid #F4F4F4;
+}
+.web_url  h1 span {
+    padding-bottom: 15px;
+    border-bottom: 2px solid #fac324;
+}
+.web_url  ul {
+    margin-top: -90px;
+    float: left;
+    margin-bottom: 20px;
+	padding-top: 120px;
+}
+.web_url li {
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.web_url  li a {
+    float: left;
+    width: 310px;
+    height: 40px;
+    padding: 15px;
+    overflow: hidden;
+    background: rgba(0,0,0,.02);
+    line-height: 20px;
+    color: #a1a7b7;
+    font-size: 12px;
+    border-radius: 4px;
+}
+.web_url  li a:hover {
+    background: #faffd2;
+    border-radius: 4px;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+.web_url  i {
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin: 1px 16px 0 5px;
+    border-radius: 4px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 32px;
+}
+.web_url  b {
+    display: block;
+    color: #30333C;
+    font-weight: 700;
+    font-size: 15px;
+    float: left;
+    margin-right: 8px;
+}
+.web_url  p {
+    float: left;
+    margin-top: 3px;
+    width: 248px;
+    padding-left: 1px;
+    overflow: hidden;
+    height: 20px;
+    white-space: nowrap;
+}
+.web_url .nourl{
+    font-size: 14px;
+    width: 1100px;
+    text-align: center;
+    display: block;
+}
+.web_url  li:hover  .urlbj{
+	display: inline-block;
+}
+.web_url li.j1 .jian1 {
+    display: block;
+    float: left;
+    margin-right: 8px;
+    margin-top: 4px;
+    background: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/jian2.gif) center no-repeat;
+    width: 17px;
+    height: 13px;
+}
+.web_url li.j2 .jian2 {
+    display: block;
+    float: left;
+    margin-right: 8px;
+    margin-top: 4px;
+    background: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/jian.gif) center no-repeat;
+    width: 17px;
+    height: 13px;
+}
+.web_url .urlbj {
+    width: 0px;
+    display: none;
+    position: absolute;
+    margin-left: -30px;
+}
+
+.web_url .urlbj a{
+	cursor: pointer;
+    width: 25px;
+    height: 20px;
+   padding: 2px;
+    margin: 0 0px;
+}
+.web_url .vpn1 {
+    opacity: .6;
+    background: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/vpn1.png) center no-repeat;
+    width: 20px;
+    height: 8px;
+    float: left;
+    margin-top: 2px;
+    text-align: center;
+    padding: 3px;
+    border: 1px solid #999;
+    border-radius: 2px;
+}
+
+#hao_mao{
+    list-style: none;
+    float: left;
+    position: absolute;
+    margin-top: 0;
+    width: 79px;
+	margin-left: -32px;
+}
+#hao_mao .hao_nav{
+    list-style: none;
+    float: left;
+    width: 79px;
+    background: #fff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+#hao_mao  h1{
+    color: #666;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+    background: #fbfafa;
+    width: 79px;
+    border-bottom: 1px solid #F4F4F4;
+    line-height: 40px;
+}
+#hao_mao  ul{
+    float: left;
+    padding-top: 10px;
+    width: 75px;
+    padding-left: 3px;
+}
+#hao_mao  ul li {
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 5px;
+    height: 20px;  
+	width: 64px;
+    text-align: center;
+}
+#addurl{
+    position: fixed;
+    background: #ff0;
+    left: 3px;
+    top: 52px;
+    padding: 4px 9px;
+    cursor: pointer;
+}
+
+#ussiteg {
+	position: relative;
+    display: block;
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 12px;
+    cursor: pointer;
+    background-position: -120px -47px;
+}
+#ussiteg:hover{
+	background-position: -120px -72px;
+}
+.fki{background: url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/hao/img/hao-mpic.png) center no-repeat;}

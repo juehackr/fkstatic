@@ -1,0 +1,142 @@
+.fkdl {
+    margin-top: 12px;
+}
+.w1180 {
+    width: 100%!important;
+    margin: 0 auto;
+}
+#fknavbox .w1180{
+	text-align: center;
+}
+#fknavbox{height: 60px;}
+.fkfooter .fkfttop .w1180{width: 1200px!important;}
+.fklogo_jian {
+    height: 39px;
+    float: left;
+    display: block;
+    margin: 10px 0px 0 13px;
+}
+.fknav.n_jian ul li a{
+		 font-size: 15px;
+	}
+	.fknav.n_jian ul li {
+    float: left;
+    margin: 0 30px 0 0;
+}
+	.fknav.n_jian{
+		    width: auto;display: inline-block;    float: left;
+	}
+	.header-drop{
+		right: 45px;
+	}
+	#fkmembercontent .header-vip em {
+    right: 13px;
+    width: 20px;
+    top: -15px;
+}
+	.fkqmenu .fkundlright{
+		    padding-right: 7px;
+	}
+#fkmemberinfo:hover {
+    background: none;
+}
+#fkmemberinfo.curs{ background: none;}
+.fkqmenu .fkdenglu {
+    width: 275px;
+}
+.header-vip em {
+    right: 197px;
+}
+.fknav {
+    height: 60px;
+    line-height: 60px;
+    overflow: hidden;
+    float: none;
+}
+
+.fklogo_jian a span{
+    top: 3px;
+    position: relative;
+}
+#pt.wuxian{width: 960px; margin: 0 auto;}
+#pt.wuxian .z {
+    background: none;
+}
+.fknav.n_jian ul li#tohom a{
+    border: 1px solid #00a4ff;
+    padding: 0 15px;
+    line-height: 23px;
+    height: 23px;
+    border-radius: 3px;
+    font-size: 13px;
+}
+.fknav.n_jian ul li#beifendr ul{
+	display: none;    position: absolute;    background: #fff;    z-index: 99999;
+}
+.fknav.n_jian ul li#beifendr:hover ul{
+	display: block;
+}
+.fknav.n_jian ul li#beifendr ul li{
+	    float: none;
+    margin: 0;
+    padding: 9px 15px;line-height: 18px;border-bottom: 1px solid #f7f7f7;
+}
+#fkmemberinfo{top: 4px;}
+
+
+#fknavbox.sheng{
+	background: #5a00ff;
+	background-image: -webkit-linear-gradient(to right, #5a00ff, #007bff);
+    background-image: -moz-linear-gradient(to right, #5a00ff, #007bff);
+    background-image: -o-linear-gradient(to right, #5a00ff, #007bff);
+    background-image: linear-gradient(to right, #5a00ff, #007bff);	
+}
+#fknavbox.sheng.ali1688{
+	background: #0025ab;
+    background-image: -webkit-linear-gradient(to right, #0025ab, #0058b7);
+    background-image: -moz-linear-gradient(to right, #0025ab, #0058b7);
+    background-image: -o-linear-gradient(to right, #0025ab, #0058b7);
+    background-image: linear-gradient(to right, #0025ab, #0058b7);
+}
+
+#fknavbox.sheng.ali1688 .fknav.n_jian ul li#tohom a {
+    border: 1px solid #004ede;
+    background: #0016ea;
+    padding: 0 15px;
+    line-height: 23px;
+    height: 23px;
+    border-radius: 3px;
+    font-size: 13px;
+}
+
+#fknavbox.sheng .fklogo_jian a,.fknav ul li a{
+	    color: #fff;border-bottom: 0;
+}
+#fknavbox.sheng .fklogo_jian a:hover,.fknav ul li a:hover{
+	    color:#f9ff00;
+}
+#fknavbox.sheng .fknav.n_jian ul li#tohom a {
+    border: 1px solid #1064ff;
+    background: #2c40ff;
+    padding: 0 15px;
+    line-height: 23px;
+    height: 23px;
+    border-radius: 3px;
+    font-size: 13px;
+}
+
+#fknavbox.sheng .fkqmenu .fkdenglu{
+	    margin-top: 19px;
+}
+#fknavbox.sheng  .fkundlright span.fkdlbtn, .fkundlright span.fkregbtn, .fkundlright a.fkdlbtn, .fkundlright a.fkregbtn{
+	    color: #0013ff;     background: #f9ff00;   opacity: 1;    border: 1px solid #2b3eff;
+}
+
+#fknavbox.sheng  .fkundlright span.fkdlbtn:hover, .fkundlright span.fkregbtn:hover, .fkundlright a.fkdlbtn:hover .fkundlright a.fkregbtn:hover{
+	      color: #ffffff;     border: 1px solid #0098ff;     background: #000aff;
+}
+
+#fknavbox.sheng  .header-drop{
+	    z-index: 9999;
+}
+#fknavbox.sheng .fkvip .iconfont{color: #f4f4f4;}

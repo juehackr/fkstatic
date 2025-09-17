@@ -1,0 +1,72 @@
+.wp, #wp{ width:100%;}
+.pn{ font-size:12px!important; font-weight:normal!important;}
+.ct2 .mn {border-right:0; float:left; width:862px;}
+.ct2 .sd{ overflow:visible; width:300px;}
+.fkacticletop{}
+.fkacticletop h4{font-size:32px; line-height:58px;overflow:hidden; color:#333; font-weight:300; text-align:center; margin-bottom:15px;}
+.fkneirong_c{width:852px; padding:15px; background:#fff;    box-shadow: 0 2px 3px rgba(0,0,0,0.06);}
+
+.fkmanagerart{ border-bottom:1px solid #ededed; padding:5px 0px 10px 0; text-align:center; margin-bottom:15px;}
+.fkmanagerart span{ display:inline-block; padding-left:25px; font-size:12px; color:#999; margin-right:10px;}
+.fkmanagerart span a{ font-size:12px; color:#999;}
+.fkmanagerart span a:hover{ color:#07AEFC}
+.fkmanagerart span.fkviews{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/view.png) left center no-repeat;}
+.fkmanagerart span.fkreplies{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/reply.png) left center no-repeat;}
+.fkmanagerart span.fkedit{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/edit.png) left center no-repeat;}
+.fkmanagerart span.fkdelete{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/delete.png) left center no-repeat;}
+.fkmanagerart span.fkshoucang{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/xin.png) left center no-repeat;}
+.fkmanagerart span.fkfenxianga{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/share.png) left center no-repeat;}
+.fkmanagerart span.fkyaoqing{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/invite.png) left center no-repeat;}
+.fkmanagerart span.fkadds{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/add.png) left center no-repeat;}
+.fkmanagerart span.fkpushed{background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/cloud.png) left center no-repeat;}
+/*相关阅读*/
+#related_article .bm_c{ padding:0;}
+.fkxgydbox_pd{ margin:20px 0; padding:15px 15px 0 15px; background:#fff; width:832px;    box-shadow: 0 2px 3px rgba(0,0,0,0.06);}
+.fkxgydbox_pd h3{  border-bottom: 1px solid #ededed;  height: 35px; margin-bottom: 15px;}
+.fkxgydbox_pd span{ display:block; font-size: 18px;  height: 22px; line-height: 22px;  margin-top: 5px; color: #333;
+font-weight: normal; padding-left: 15px;  border-left: 4px solid #07AEFC;}
+.fkthreadslists{ width:850px;}
+.fkthreadslists li{ float:left; width:267.33px; margin:0 15px 15px 0;}
+.fktoppicfd{ width:267.33px; height:170px; overflow:hidden;}
+.fktoppicfd img{ width:267.33px; height:170px;-webkit-transition:all 0.3s linear;-moz-transition:all 0.3s linear;-o-transition:all 0.3s linear;-ms-transition:all 0.3s linear;transition:all 0.3s linear;}
+.fkthreadslists li:hover img{transform: scale(1.1); -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); -ms-transform: scale(1.1); }
+.fkrpingfdf{ border:1px solid #ededed; padding:10px; height:65px; border-top:0; position:relative;}
+.fkrpingfdf h5{ height:22px; line-height:22px; overflow:hidden; margin-bottom:10px;}
+.fkrpingfdf h5 a{ font-size:14px; color:#333; font-weight:300;}
+.fkrpingfdf h5 a:hover{color:#07AEFC}
+.fkrfgtr{ padding:0 10px;height: 40px; width:245.3px; background: #f5f5f5; position:absolute; left:0; bottom:0;}
+.fkfrzuoze{ float:left; font-size: 12px; color: #999; height: 40px; line-height: 40px;padding-left:18px; background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/admin.png) left center no-repeat;}
+.fkdaterf{ float:right;font-size: 12px; color: #999; height: 40px; line-height: 40px; padding-left:18px;background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/group.png) left center no-repeat;}
+
+
+
+
+/*作者栏*/
+.fkfabuxinxi{ width:270px; padding:15px; background:#fff; margin-bottom:15px; position:relative;    box-shadow: 0 2px 3px rgba(0,0,0,0.06);}
+.fkfabuxinxi i{ display:block; width:12px; height:20px; background:url(//fkstatic.fkdmg.com/template/fkdmg_tem/fkcss/portal_list_view/b-trangle.png) center no-repeat; position:absolute; top:70px; left:-12px;}
+
+.bm{ border:0; margin-bottom:0;}
+.fkfbxxtop{}
+.fkfbxxtop a{ display:block; padding-top:10px; }
+.fktx{width:88px; height:88px; margin:0 auto;}
+.fktx img{width:88px; height:88px; border-radius:100%;}
+.fkzzm{ text-align:center; height:20px; line-height:20px; margin:14px 0 10px 0; font-size:16px; color:#333; font-weight:bold;}
+.fkfbxxtop a span{ display:block; width:80px; height:20px; margin:0 auto 15px auto; line-height:20px; text-align:center; font-size:12px; color:#fff; border-radius:24px;  background-color: #07AEFC; background: linear-gradient(90deg,#5ea2ff,#00e3ff);}
+.fkzztouxian{ display:block; margin:10px auto 15px auto; text-align:center;height:23px; line-height:23px; background:#07AEFC; font-size:12px; color:#fff; border-radius:24px; max-width:80px; overflow:hidden;}
+.fkfbxxtop a em{ text-align:center; height:20px; line-height:20px; font-size:12px; color:#333; display:block; margin-bottom:15px;}
+
+.fkfbxxbottom{ padding-top:10px; border-top:1px solid #ededed;}
+.fkfbxxbottom span{ text-align:center; font-size:12px; color:#999;  float: left;  width: 33%; display:block;line-height: 24px;}
+.fkfbxxbottom span.fksss{ margin-right:-1px;}
+.fkfbxxbottom span.fkviews{ border-left:1px solid #ededed; border-right:1px solid #ededed; width: 34%;}
+.fkfbxxbottom span.fkreplies{margin-left:-1px;}
+.fkfbxxbottom span.fkreplies a{}
+.fkfbxxbottom span em{ display: block; font-size: 20px; color: #333;  font-weight: normal;}
+.fkxgydbox{ padding:15px; background:#fff; margin-bottom:15px; box-shadow: 0 2px 3px rgba(0,0,0,0.06);}
+
+/*上一篇下一篇*/
+.fkupdowns{}
+.fkupdowns h5{ font-size:16px; color:#9ca4ab; font-weight:300; height:30px; line-height:30px;}
+.fkupdowns a{ display:block; height:30px; line-height:30px; font-size:14px; color:#333; overflow:hidden;text-overflow:ellipsis; white-space:nowrap; }
+.fkupdowns a:hover{ color:#07AEFC}
+.fkupdowns em{ font-size:12px; color:#999;}

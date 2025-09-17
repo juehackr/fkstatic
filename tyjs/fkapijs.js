@@ -84,7 +84,7 @@ var tyhengfu = function () {
             content: '<div id="fk1111" style="width:538px; height:470px;"><style>.layui-layer{box-shadow: none;}.layui-layer-page .layui-layer-content {position: relative;overflow: hidden;}</style><a href="https://www.fkdmg.com/VIP/huodong/?ly=tcad" target="_blank"><img src="https://img.alicdn.com/imgextra/i1/456989075/O1CN01FeaYpV2GuOvE3TEZO-456989075.png" style="max-width: 100%;"></a></div>'
         });
     } else { //未引入
-        jQuery.getScript("//fkstatic.fkdmg.com/static/layer/layer.js", function () {
+        jQuery.getScript("//cdn.jsdelivr.net/gh/juehackr/fkstatic@master/layer/layer.js", function () {
             layer.open({
                 type: 1,
                 title: false,

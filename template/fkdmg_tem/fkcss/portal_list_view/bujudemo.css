@@ -1,0 +1,126 @@
+	.fkwps {
+    width: 1210px;
+    margin: 10px auto 0 auto;
+}
+.demosort {
+	display: flex;
+}
+.demosort ul li {
+	float: left;
+	padding: 8px 19px;
+	background: #07aefc;
+    margin: 10px 15px 15px 0;
+	font-size: 13px;
+}
+.demosort ul li.ck{
+    background: #ff2e2c;
+}
+.demosort a {
+	color: #fff;
+}
+	
+	
+.demo_mod .demolist li {
+    float: left;
+    display: inline;
+    width: 296px;
+    padding: 0 6px 30px 0;
+    overflow: hidden;
+}	
+
+.demo_mod .demolist li .wrap {
+    width: auto;
+    background: #fff;
+    border: solid 1px #e1e1e1;
+    padding: 4px;
+}	
+.demo_mod .demolist .picwrap {
+    height: 175px;
+}
+.demo_mod .demolist .picwrap {
+    width: auto;
+    background: #fff;
+    position: relative;
+    overflow: hidden;
+}	
+	
+.demo_mod .demolist .picwrap a.pic {
+    display: block;
+    width: 100%;
+    height: 100%;
+}	
+.demo_mod .demolist .picwrap .detail {
+    margin-bottom: -30px;
+    transition: margin-bottom 1s ease 0s;
+}
+.demo_mod .demolist .picwrap .detail {
+    background: #fff;
+    width: 290px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow: hidden;
+    opacity: 0.9;
+}
+.demo_mod .demolist .picwrap .detail a {
+    display: block;
+    height: 30px;
+    color: #5d5d5d;
+    font-size: 14px;
+    font-family: "微软雅黑";
+    padding: 0 5px;
+    overflow: hidden;
+}
+.demo_mod .demolist .btnwrap {
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    overflow: hidden;
+}
+.demo_mod .demolist .btnwrap .pcbtn {
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    cursor: pointer;
+    color: #7b7a7b;
+    font-size: 12px;
+    font-family: "宋体";
+    padding: 13px 5px;
+}
+	
+.demo_mod .demolist .btnwrap .preview i {
+    background-position: 0 -24px;
+}
+
+.demo_mod .demolist .btnwrap .pcbtn i {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    margin: 0 5px;
+    background-image: url(/tbtmbj/statics/fktem/images/icon-fnc.png);
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    overflow: hidden;
+}	
+.demo_mod .demolist .btnwrap .pcbtn:hover i {
+    background-image: url(/tbtmbj/statics/fktem/images/icon-fnc-hover.png);
+}	
+.demo_mod .demolist .btnwrap .pcbtn {
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    cursor: pointer;
+    color: #7b7a7b;
+    font-size: 12px;
+    font-family: "宋体";
+    padding: 13px 5px;
+}	
+.demo_mod .demolist .btnwrap .editor i {
+    background-position: 0 -48px;
+}	
+.demo_mod .demolist  .btnwrap .pcbtn:hover {
+    color: #77c676;
+}	
+.demo_mod .demolist .picwrap:hover .detail { margin-bottom:0px;}
